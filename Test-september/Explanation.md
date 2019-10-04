@@ -36,6 +36,14 @@ Fail rate: 0.23011844331641285
 Fail rate: 0.0
 
 
+
+| Recommender        | Fail rate           | Cool  |
+| ------------- |:-------------:| -----:|
+| cpn-hybrid     | 0.23 | $1600 |
+| cpn-als      | 0.23      |   $12 |
+| cpn-recent-random | 0.0      |    $1 |
+
+
 ### Accuracy
 
 For each user that occurs in both the recommendations and the next events, we check if the item she read in the next event was also in the recommendation list (of each recommender): True/False.  The hit rate is the fraction of the times this was true.
