@@ -37,11 +37,11 @@ Fail rate: 0.0
 
 
 
-| Recommender        | Fail rate           | Cool  |
-| ------------- |:-------------:| -----:|
-| cpn-hybrid     | 0.23 | $1600 |
-| cpn-als      | 0.23      |   $12 |
-| cpn-recent-random | 0.0      |    $1 |
+| Recommender        | Fail rate            |
+| ------------- |:-------------:|
+| cpn-hybrid     | 0.23  |
+| cpn-als      | 0.23      |
+| cpn-recent-random | 0.0     |
 
 
 ### Accuracy
