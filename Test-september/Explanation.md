@@ -23,13 +23,16 @@ This is done in the notebook Evaluate.ipynb.
 
 The fraction of the recommendation requests that returned no recommendation list.
 
-cpn-hybrid
+* cpn-hybrid
+
 Fail rate: 0.23011844331641285
 
-cpn-als
+* cpn-als
+
 Fail rate: 0.23011844331641285
 
-cpn-recent-random
+* cpn-recent-random
+
 Fail rate: 0.0
 
 
